@@ -40,3 +40,6 @@ dependencies {
 }
 ```
 
+
+### What does this app do?
+There is an edit text where you can enter a github username, then hit the search button and it will fetch the github account info of the username provided in the edit text.
