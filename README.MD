@@ -1,4 +1,4 @@
-This is a demo Android app which is written in **Kotlin** using **Android Studio 3.0 Preview**. It uses **MVP** pattern, **dagger 2** for dependency injection and **Retrofit 2** for network tasks, **rxandroid** and **rxkotlin** for background tasks management, **expresso** for ui testing, **mockito** and **junit** for unit testing.
+This is a demo Android app which is written in **Kotlin** using **Android Studio 3.0 Preview**. It uses **MVP** pattern, **dagger 2** for dependency injection and **Retrofit 2** for network tasks, **rxandroid** and **rxkotlin** for background task management, **expresso** for ui testing, **mockito** and **junit** for unit testing.
 
 [gradle dependencies](https://github.com/pengcy/kotlin-mvp-dagger2-rxandroid/blob/master/app/build.gradle):
 ```
