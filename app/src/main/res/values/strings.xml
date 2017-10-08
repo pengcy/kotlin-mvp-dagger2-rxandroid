@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin MVP Dagger Rxkotlin</string>
+
+    <string name="not_found">Not Found!</string>
+</resources>
